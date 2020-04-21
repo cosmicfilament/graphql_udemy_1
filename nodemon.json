@@ -1,0 +1,4 @@
+{
+	"ignore": [ "node_modules/", ".vscode/" ],
+	"watch": [ "server.js", "schema/" ]
+}
